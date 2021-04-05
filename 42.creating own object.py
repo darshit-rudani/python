@@ -6,7 +6,7 @@ class player:
 			self.name = name
 			self.age = age
 
-	def run():
+	def run(self):
 		print(f'my name is {self.name}')
 
 
